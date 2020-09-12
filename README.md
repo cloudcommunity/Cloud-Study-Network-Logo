@@ -1,5 +1,5 @@
 # Cloud Study Network Logo
-Versions of a new logo for the Cloud Study Network community
+Versions of a new logo for the Cloud Study Network community. Feel free to submit via a pull request your version of the logo.
 
 ## Version by Abolfazl Mohammadi
 
