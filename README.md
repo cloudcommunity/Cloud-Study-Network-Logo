@@ -15,6 +15,6 @@ This version was submitted by our community member **Bhavesh Gohel** on 11-Septe
 
 ## Version by Debobrata Bose
 
-This version was submitted by our community member **Debobrata Bose** on 28-October-2020.
+This version was submitted by our community member **Debobrata Bose** on 27-October-2020.
 
 ![Cloud Study Network logo by Debobrata Bose](https://github.com/cloudcommunity/Cloud-Study-Network-Logo/blob/master/Logo-by-Debobrata-Bose.png?raw=true)
