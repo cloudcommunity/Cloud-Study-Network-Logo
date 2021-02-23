@@ -3,9 +3,9 @@
 Versions of a new logo for the Cloud Study Network community. Feel free to submit via a pull request your version of the logo.
 
 1. [Version by Abolfazl Mohammadi](#1-version-by-abolfazl-mohammadi)
-1. [Version by Bhavesh Gohel](#1-version-by-bhavesh-gohel)
-1. [Version by Hari](#1-version-by-hari)
-1. [Version by Debobrata Bose](#1-version-by-debobrata-bose)
+1. [Version by Bhavesh Gohel](#2-version-by-bhavesh-gohel)
+1. [Version by Hari](#3-version-by-hari)
+1. [Version by Debobrata Bose](#4-version-by-debobrata-bose)
 1. [Version by Karen](#5-version-by-karen)
 
 
@@ -35,6 +35,6 @@ This version was submitted by our community member **Debobrata Bose** on 27-Octo
 
 ## 5) Version by Karen
 
-This version was submitted by our community founder & member **Karen** on 23-February-2021.
+This version was submitted by our community member **Karen** on 23-February-2021.
 
 ![Cloud Study Network logo by Karen](https://github.com/cloudcommunity/Cloud-Study-Network-Logo/blob/master/Logo-by-Karen.png?raw=true)
