@@ -3,6 +3,10 @@
 Versions of a new logo for the Cloud Study Network community. Feel free to submit via a pull request your version of the logo.
 
 1. [Version by Abolfazl Mohammadi](#1-version-by-abolfazl-mohammadi)
+1. [Version by Abolfazl Mohammadi](#1-version-by-abolfazl-mohammadi)
+1. [Version by Abolfazl Mohammadi](#1-version-by-abolfazl-mohammadi)
+1. [Version by Abolfazl Mohammadi](#1-version-by-abolfazl-mohammadi)
+1. [Version by Karen](#5-version-by-karen)
 
 
 ## 1) Version by Abolfazl Mohammadi
